@@ -1,7 +1,7 @@
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 import time
 import streamlit as st
